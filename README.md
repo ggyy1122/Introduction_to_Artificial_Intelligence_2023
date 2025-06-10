@@ -1,2 +1,0 @@
-# Introduction_to_Artificial_Intelligence_2023
-同济大学_2023_软件学院_人工智能导论_邓浩 (Term 2024-2025)
